@@ -41,9 +41,17 @@ const API_SITES = {
         api: 'https://wolongzyw.com',
         name: '卧龙资源',
     },
+    hw: {
+        api: 'https://huaweiba.live',
+        name: '华为',
+    },
     cjhw: {
         api: 'https://cjhwba.com',
         name: '新华为',
+    },
+    subo: {
+        api: 'https://www.suboziyuan.net',
+        name: '速播',
     },
     dbzy: {
         api: 'https://dbzy.com',
