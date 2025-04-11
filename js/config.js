@@ -53,6 +53,11 @@ const API_SITES = {
         api: 'https://www.suboziyuan.net',
         name: '速播',
     },
+    jisu: {
+        api: 'https://jszyapi.com',
+        name: '极速资源',
+        detail: 'https://jszyapi.com'
+    },
     dbzy: {
         api: 'https://dbzy.com',
         name: '豆瓣资源',
