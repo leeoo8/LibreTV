@@ -1,5 +1,5 @@
 // 全局常量配置
-const PROXY_URL = 'https://y.demo.lhyang.org/';
+const PROXY_URL = 'https://soft-glade-24bd.snowy-pond-ab0a.workers.dev/';
 const HOPLAYER_URL = 'https://hoplayer.com/index.html';
 const SEARCH_HISTORY_KEY = 'videoSearchHistory';
 const MAX_HISTORY_ITEMS = 5;
