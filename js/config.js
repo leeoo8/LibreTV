@@ -1,5 +1,5 @@
 // 全局常量配置
-const PROXY_URL = 'https://cs-c6l.pages.dev/';
+const PROXY_URL = 'https://pppttt-ascfdfdnxcbjsdd.hf.space/';
 const HOPLAYER_URL = 'https://hoplayer.com/index.html';
 const SEARCH_HISTORY_KEY = 'videoSearchHistory';
 const MAX_HISTORY_ITEMS = 5;
